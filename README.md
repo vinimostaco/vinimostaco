@@ -55,8 +55,8 @@ I am continuously enhancing my skills in:
 
 ## 📫 How to Reach Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/vinicius-mosta%C3%A7o-de-moraes-3b3572253/))
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:insira-seu-email-aqui@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/vinicius-mosta%C3%A7o-de-moraes-3b3572253/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:vini.mostaco@gmail.com)
 
 Feel free to reach out if you have any questions or just want to connect!
 
