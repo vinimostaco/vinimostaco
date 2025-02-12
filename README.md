@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Junior Software Developer currently working at Alest Consultoria in São Paulo, SP, Brazil. With 1.5 years of experience in the tech industry, I have a strong background in:
+I'm a passionate Junior Software Developer currently working at Blue Company in São Paulo, SP, Brazil. With 1.5 years of experience in the tech industry, I have a strong background in:
 
 - **Node.js** and **TypeScript**
 - **REST API** development
