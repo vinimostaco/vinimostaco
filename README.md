@@ -48,7 +48,6 @@ Currently, I'm working with **Google Cloud's Document AI** and **Mistral AI** to
 ## 📊 My Stats
 
 <div align="center">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimostaco&layout=compact&theme=dark" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=vinimostaco&show_icons=true&count_private=true&hide=prs&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimostaco&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimostaco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
