@@ -14,7 +14,8 @@ Currently, I'm working with **Google Cloud's Document AI** and **Mistral AI** to
 
 - **Languages:** TypeScript, Golang, JavaScript
 - **Databases:** MongoDB, PostgreSQL
-- **Cloud:** Google Cloud Platform (GCP), Document AI
+- **Cloud:** Google Cloud Platform (GCP):
+  - Document AI, Cloud Run, Pub/Sub, Cloud Task, IAM, Cloud Storage, Scheduler, Compute Engine
 - **AI Tools:** Mistral AI
 - **Tools:** Docker, Git, Grafana, Bun, kubernetes, nginx
 
