@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate **Back-End Developer** with over **1 year and 9 months** of experience. I specialize in **Node.js**, **TypeScript**, **Golang**, and **API development**. I enjoy solving complex problems and continuously improving my skills.
+I'm a passionate **Back-End Developer** with over **Two and a half years** of experience. I specialize in **Node.js**, **TypeScript**, **Golang**, and **API development**. I enjoy solving complex problems and continuously improving my skills.
 
 Currently, I'm working with **Google Cloud's Document AI** and **Mistral AI** to extract and validate data from documents. I'm focused on building scalable services and integrating AI solutions for document processing.
 
